@@ -43,6 +43,10 @@ Para crear encabezados, utiliza el símbolo `#` seguido de un espacio y el texto
 
 [Texto del enlace](https://markdown.es/)
 
+
+
+```
+
 Para escribir piezas de código: 
 
 ```Python
