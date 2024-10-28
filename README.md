@@ -1,1 +1,3 @@
-# Lector-QR
+# Lector-QR 
+
+hola
